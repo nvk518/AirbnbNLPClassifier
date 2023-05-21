@@ -1,0 +1,251 @@
+,id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,city
+196355,14180539,Spacious Private Bedroom & Skylight,547669,Jamie,,Outer Sunset,37.7572,-122.49858,Private room,70,30,3,31/08/19,0.06,4,365,San Francisco
+188841,27902672,Updated Guest House With City Views!,22012010,Patrick,,Pacific Beach,32.80848,-117.23802,Entire home/apt,125,3,28,06/07/20,1.22,40,64,San Diego
+158787,42405876,Murray Hill One Bedroom Apt-P,337491638,Ash,Manhattan,Murray Hill,40.74336,-73.97216,Entire home/apt,180,30,0,,,4,179,New York City
+134461,17078010,Bushwick apartment (bedroom) right off L train!,1286399,Lauren,Brooklyn,Bushwick,40.70072,-73.91594,Private room,150,1,4,02/01/20,0.09,1,358,New York City
+203756,41645656,"3BR/3BA, Beach in walking distance, 20min to Sf",2310061,Hanna,,Pacifica,37.59422,-122.51131,Entire home/apt,290,1,0,,,4,124,San Mateo County
+60949,29217621,HO'OLEI #93-2-BEAUTIFULLY APPOINTED VILLA-AC,57940735,Pmi,Maui,Kihei-Makena,20.68317,-156.43897,Entire home/apt,499,4,17,09/03/20,0.92,63,283,Hawaii
+135939,18913089,MASTER SUITE in 3 Story Loft in an old BK Church,23568850,Olivia,Brooklyn,Williamsburg,40.71592,-73.95666,Private room,126,3,4,24/09/17,0.1,1,0,New York City
+135313,18235200,Cozy Private Bedroom Near LGA,62466309,Paula,Queens,East Elmhurst,40.76518,-73.89182,Private room,50,2,1,02/12/18,0.05,1,37,New York City
+133927,16416983,Williamsburg 1 bed Apartment,29456854,Jarrod,Brooklyn,Williamsburg,40.71218,-73.95757,Entire home/apt,128,5,5,06/11/19,0.12,1,64,New York City
+171388,15563002,"2 Bedrooms w/Loft & En-Suite Baths, Walk to Harbor",78139874,Chris,Newport,Newport,41.47752,-71.3134,Entire home/apt,225,2,6,26/05/20,0.15,35,350,Rhode Island
+209728,27316077,Wa Na Wari Arts Loft Apartment-Entire Apartment,205814540,Inye,Central Area,Mann,47.60983,-122.30079,Entire home/apt,145,1,11,11/11/19,0.93,3,172,Seattle
+56082,20440485,Shige & Jane's Molokai Beachfront Condominium 208,50078010,Jane,Maui,Molokai,21.08235,-157.00271,Entire home/apt,130,2,76,22/03/20,2.18,4,254,Hawaii
+113123,21962338,French Quarter CBD Casino Area Condo - Balcony!,74907357,Annie,,Central Business District,29.95048,-90.0679,Entire home/apt,90,2,85,08/08/20,2.6,7,272,New Orleans
+150421,34857809,Entire Stunning Studio next to Met/Central Park,69433846,Isabelle,Manhattan,Upper East Side,40.77712,-73.96246,Entire home/apt,160,60,7,28/02/20,0.58,1,109,New York City
+210312,32662859,Unbeatable 100 Walkscore 1BD 2 w/ balcony F2,8534462,Barsala,Capitol Hill,Broadway,47.61428,-122.3264,Entire home/apt,169,30,2,13/09/19,0.13,214,0,Seattle
+48634,1000771,King Bed with Private Bathroom &  Ocean Views,1423797,Jade,Hawaii,North Hilo,19.9052,-155.13353,Private room,79,1,28,08/08/20,0.31,12,357,Hawaii
+130973,13466302,Very central loft-like apartment on UWS,26297742,Valeria,Manhattan,Upper West Side,40.77981,-73.98499,Entire home/apt,325,5,9,27/12/19,0.18,1,178,New York City
+29588,20672624,Lincoln Park Escape,44618537,Robert,,Lincoln Park,41.92942,-87.64397,Private room,114,1,19,23/09/19,0.57,4,180,Chicago
+129247,11671588,Townhouse 2 BR Central Park West,61391963,Corporate Housing,Manhattan,Upper West Side,40.78833,-73.97026,Entire home/apt,150,30,7,22/11/19,0.21,120,0,New York City
+2235,354569,Ultimate casually elegant retreat,2049988,Mike,,78703,30.28923,-97.7606,Entire home/apt,248,3,11,05/07/17,0.11,1,0,Austin
+64658,35381249,King Room with Balcony,262442924,Alohilani Resort,Honolulu,Primary Urban Center,21.27579,-157.82284,Hotel room,358,1,0,,,11,214,Hawaii
+2570,1593451,South Lamar Zilker Cottage,8495321,Rebecca,,78704,30.24736,-97.77576,Entire home/apt,85,3,203,06/09/20,2.51,1,325,Austin
+38465,33322344,4-Bedroom 5-Bed 3.2-Mile To Strip! Live 8-guest!,251020256,Victoria,,Unincorporated Areas,36.11913,-115.23242,Entire home/apt,218,2,39,08/08/20,2.28,1,86,Clark County
+168454,23430342,A Perch in Southeast,3665980,Rebecca,,Woodstock,45.48493,-122.60275,Entire home/apt,75,3,1,24/02/20,0.22,1,0,Portland
+218619,43834142,A place to call home | 1BR in Minnetonka,342643084,P C H,,Hennepin,44.97459,-93.46484,Entire home/apt,71,30,0,,,38,360,Twin Cities MSA
+79000,12053997,LA hideaway with outdoor space and parking!,45250899,Fer,City of Los Angeles,Echo Park,34.08641,-118.26139,Entire home/apt,96,30,49,23/12/19,0.95,1,0,Los Angeles
+10722,41882776,Cozy oasis with bonus loft and wfh setup,40238445,Emily,,78749,30.21981,-97.86307,Entire home/apt,200,1,6,30/07/20,1.86,1,3,Austin
+170570,44059965,Private bathroom CHIC & CLEAN walk to restaurants,321451214,Kim,,King,45.55745,-122.66108,Private room,56,1,0,,,9,16,Portland
+221676,19435562,NEWLY UPDATED Georgetown Spacious & beautiful 1 BR,17633,Charlotte (& Anna-Regina),,"Georgetown, Burleith/Hillandale",38.90962,-77.05937,Entire home/apt,130,2,36,26/12/19,0.96,48,16,Washington D.C.
+203969,43271751,Charming and safe Chalet with private garden & BBQ,29468962,Cynthia,,San Carlos,37.51222,-122.26136,Entire home/apt,135,4,1,03/07/20,1.0,1,46,San Mateo County
+77025,7636928,Clean and Nice Room,34068320,Fabian,Other Cities,Long Beach,33.79337,-118.13856,Private room,60,1,8,17/07/16,0.13,2,363,Los Angeles
+136545,19459142,Comfy stay!,135696084,Dustin,Manhattan,Kips Bay,40.74072,-73.98133,Private room,60,1,0,,,1,0,New York City
+16613,9300961,Hollywood Beach as LOW as $49,48266999,Ron,,Hollywood,26.03073,-80.15512,Private room,49,4,14,02/02/20,0.26,1,365,Broward County
+121676,4038794,Bright room with private bathroom,19638238,Elke,Manhattan,Washington Heights,40.83428,-73.94738,Private room,70,2,29,08/12/19,0.47,1,269,New York City
+131022,13496176,Spacious duplex w/ backyard in Stuyvesant Heights.,7697189,Daniel,Brooklyn,Bedford-Stuyvesant,40.68015,-73.9355,Entire home/apt,165,2,3,24/10/16,0.06,1,0,New York City
+56038,20299641,Cozy Maui Condo across from Kamaole Beach Park,64212414,Adam,Maui,Kihei-Makena,20.71139,-156.4442,Entire home/apt,220,3,9,14/04/19,0.26,1,348,Hawaii
+61912,30963473,"Maui Vista #2-423 2Bd/2ba Close to Kamaole Beach, in the heart of South Kihei",51017586,Rentals Maui,Maui,Kihei-Makena,20.72664,-156.44735,Entire home/apt,189,3,0,,,215,146,Hawaii
+163081,1718078,"Designer house, Urban Haven",399857,Magali,,Paradise Park,37.84416,-122.28011,Entire home/apt,134,2,37,26/12/18,0.45,1,0,Oakland
+10502,41064723,Spacious private room & bathroom in North Austin,81289609,Jann,,78717,30.49909,-97.74784,Private room,55,5,1,15/01/20,0.12,1,177,Austin
+200174,40042056,FiDi Heights View,303118342,Jesse,,Financial District,37.79176,-122.39873,Entire home/apt,225,90,0,,,11,177,San Francisco
+208251,19140686,Historic U-District Studio,9768188,Staci,University District,University District,47.65865,-122.31803,Entire home/apt,90,30,18,12/01/20,0.52,1,71,Seattle
+164938,27510154,Cozy detached studio with hot tub near Bart,22851168,Shane,,Longfellow,37.83423,-122.27409,Entire home/apt,139,2,31,04/03/20,1.69,1,58,Oakland
+118943,993040,YOUR HARLEM HOME AWAY FROM HOME,5454862,Barbara,Manhattan,Harlem,40.8278,-73.94891,Entire home/apt,121,2,208,20/03/20,2.33,1,0,New York City
+222764,25501812,"Private Suite, perfect for Summer Interns!",17934570,Mandy,,"Union Station, Stanton Park, Kingman Park",38.8941,-77.00206,Private room,100,30,1,23/09/18,0.04,5,365,Washington D.C.
+38225,32196199,Welcome to Las Vegas,240310200,Dilia,,Unincorporated Areas,36.14045,-115.10767,Private room,28,1,56,30/08/20,3.1,2,163,Clark County
+179125,32881019,Charming modern 1 bedroom 1 bath guest apartment,6326065,Tim,,Unincorporated Areas,37.3172,-121.92727,Entire home/apt,99,5,17,01/06/20,1.18,7,347,San Clara Country
+150568,35005563,Sonder | Cassa | Bright 1BR + Rooftop,219517861,Sonder (NYC),Manhattan,Midtown,40.756,-73.98195,Entire home/apt,142,29,0,,,40,104,New York City
+13645,20055667,Newly Renovated Private Bedroom Close to  Airport,15943555,Monya,,East Boston,42.37993,-71.04062,Private room,80,1,38,03/11/19,1.02,4,0,Boston
+67375,40406175,Village by the Sea,18354230,Claudia,Maui,Kihei-Makena,20.75924,-156.45898,Entire home/apt,159,4,1,12/12/19,0.11,2,311,Hawaii
+198289,28009722,Hayes Valley Work Ready Private Room and Bath,198616,Nancy,,Western Addition,37.77476,-122.42608,Private room,110,1,95,23/02/20,3.93,2,5,San Francisco
+60804,28913251,Oceanfront Sandy Beach 6 Bedrooms 4 Baths Jaguzzi,205701223,Sandra,Honolulu,Waianae,21.46087,-158.20868,Entire home/apt,1100,5,17,20/02/20,0.73,2,355,Hawaii
+29721,21401178,üè≥Ô∏è‚ÄçüåàKick-Ass Stylish Flat with Kitties üê±üè≥Ô∏è‚Äçüåà  LGBTQ SAFE,79704293,Colin,,Lincoln Square,41.96903,-87.68089,Private room,38,7,74,31/08/20,2.08,1,25,Chicago
+154731,39352903,Newly renovated cozy one BR apartment close to NYC,301875564,Karen And Paul,Bronx,Wakefield,40.9049,-73.84643,Private room,60,1,9,15/05/20,1.4,1,66,New York City
+52173,12889739,Ocean view 2 Bed 2 Bath Villa,70557984,Zaheed,Honolulu,Ewa,21.33152,-158.12084,Entire home/apt,500,7,2,25/01/20,0.08,1,8,Hawaii
+143594,26845561,The Unique Home in New York City,78643953,Daniel,Brooklyn,Bushwick,40.68875,-73.916,Entire home/apt,155,4,50,15/03/20,2.43,3,357,New York City
+30677,28253363,"Large Private Unit w/ Projector, Parking, &Laundry",5838524,Caroline,,Portage Park,41.93887,-87.77351,Entire home/apt,80,2,24,22/10/19,1.02,1,0,Chicago
+210475,33428969,Modern Capitol Hill Studio Steps to Volunteer Park,251831101,Ann,Capitol Hill,Broadway,47.62588,-122.32379,Entire home/apt,623,1,82,05/05/20,5.86,3,333,Seattle
+96127,38279411,Hollywood Highland Hostel And H√¥tel,287644375,Vanessa,City of Los Angeles,East Hollywood,34.10137,-118.30832,Shared room,300,7,0,,,1,269,Los Angeles
+110144,43407146,FREE POOL and PARKING! Walk to the Gulch! Murals!,35801381,Music City Housing,,District 17,36.14668,-86.7816,Entire home/apt,121,1,14,12/08/20,6.56,3,264,Nashville
+99315,41559943,80's Mansion with Panoramic Woodland Hills' Views,327410317,Melodee,City of Los Angeles,Woodland Hills,34.14778,-118.59192,Entire home/apt,257,30,0,,,1,51,Los Angeles
+211769,41537960,Stay healthy! Stay clean! Sterile & Disinfected!,249951377,Anna,Capitol Hill,Broadway,47.61817,-122.31636,Entire home/apt,75,1,22,07/06/20,4.29,3,44,Seattle
+6735,22723442,Cute Centrally Located 1950's Bungalow!,37973959,Meghan,,78756,30.32487,-97.73389,Entire home/apt,99,2,3,02/07/18,0.1,1,0,Austin
+187779,24183774,Private City Apt. with backyard!,13061511,Salina,,Park West,32.72794,-117.16272,Entire home/apt,175,2,10,26/07/19,0.66,1,0,San Diego
+48763,1339976,B202 WAIPOULI BEACH 2 BEDROOM SUITE W/ AC,756093,Joshua,Kauai,Kapaa-Wailua,22.06151,-159.3212,Entire home/apt,227,1,30,13/03/20,0.58,90,0,Hawaii
+204706,16423067,Seacliff Beach Flat,12225353,Joshua And Jeanne,,Unincorporated Areas,36.97637,-121.9147,Entire home/apt,140,2,254,26/03/20,6.01,2,162,Santa Cruz County
+53234,15511769,"Corner End Unit, Balcony, Diamond Head Studio 1005",43793840,Mark,Honolulu,Primary Urban Center,21.26104,-157.8203,Entire home/apt,65,2,44,18/03/20,0.97,100,319,Hawaii
+134287,16783144,Wonderful island life in NYC,20600569,Tiffany,Manhattan,Roosevelt Island,40.76335,-73.94937,Private room,50,1,130,26/07/20,3.04,2,230,New York City
+156306,40506862,A beautiful room in a spacious house!,3782356,Hadi,Brooklyn,Bay Ridge,40.63521,-74.03455,Private room,40,7,0,,,1,364,New York City
+166695,3835937,In the heart of the inner eastside,19756066,Randy,,Sullivan's Gulch,45.5351,-122.63842,Private room,44,1,455,04/07/20,6.34,1,343,Portland
+177725,25189932,"TRIBE ‚ù§Ô∏è Deep Cleaned  Quiet 2BR, North San Jose",18839434,Tribe,,San Jose,37.40559,-121.93226,Entire home/apt,239,30,36,25/05/20,1.44,125,362,San Clara Country
+185129,15693993,Private Custom Studio,101313716,Jake,,City Heights West,32.74569,-117.1077,Entire home/apt,55,1,208,26/04/20,6.48,1,38,San Diego
+94313,35800673,"Hotel Angeleno, Standard King",267428996,Hotel Angeleno,City of Los Angeles,Brentwood,34.07324,-118.46862,Private room,175,1,37,07/09/20,3.63,3,365,Los Angeles
+153366,38131474,‚≠êOversized Real 3bd New Yorker Apt!,265248832,Noe,Manhattan,East Harlem,40.79836,-73.94191,Entire home/apt,299,2,15,29/02/20,1.3,1,0,New York City
+168635,25266062,Portland's White House - M4,254878,David,,Irvington,45.5376,-122.64332,Hotel room,270,2,1,03/08/18,0.04,8,174,Portland
+213597,19385465,Family Home in Northeast - close to everything!,3298257,Tessa,,Hennepin,45.01704,-93.27181,Entire home/apt,600,2,0,,,1,0,Twin Cities MSA
+186615,20327969,Boho Banker's Hill Apt,46878960,Katie,,Midtown,32.73163,-117.16408,Entire home/apt,295,1,0,,,1,0,San Diego
+184338,13298532,"Leah`s Oceanfront Condo: On Boardwalk, Pool & Hot Tub",37353287,Nancys,,Pacific Beach,32.7995,-117.25759,Entire home/apt,299,6,3,31/12/19,0.07,40,347,San Diego
+180121,38188785,Gated Community Guest Suite with Private Entrance,269707072,Van,,San Jose,37.32553,-121.84688,Entire home/apt,59,1,54,12/02/20,5.77,1,35,San Clara Country
+129522,12064423,Beautiful private room in Bedstuy,13406868,Andrew,Brooklyn,Bedford-Stuyvesant,40.68464,-73.95002,Private room,45,4,1,15/05/16,0.02,1,0,New York City
+116010,40445886,they all lived together in a little crooked house.,174815,D,,Hollygrove,29.96763,-90.12434,Private room,45,1,4,31/07/20,0.45,2,285,New Orleans
+72438,38893792,Clean&Quiet 1BR | Travel Nurse Friendly |JC by GLS,30283594,Global Luxury Suites,,Ward E (councilmember James Solomon),40.72562,-74.03625,Entire home/apt,125,1,8,16/02/20,1.0,55,365,Jersey City
+150028,34487247,Premier King Room Central Park,261761196,Park Central,Manhattan,Midtown,40.76462,-73.98319,Private room,121,1,2,18/05/20,0.21,8,208,New York City
+164084,16260126,Private Garden Cottage Fast WIFI Workspace Kitchen,3654316,Suellen & David,,Longfellow,37.82872,-122.27519,Entire home/apt,80,2,96,17/05/20,2.26,4,322,Oakland
+80619,14824119,The Cazador Barn-Mt. Washington,3844352,Carrick,City of Los Angeles,Glassell Park,34.10587,-118.23449,Entire home/apt,108,2,242,23/08/20,4.95,2,350,Los Angeles
+168526,24141003,Spacious & Quiet Private Retreat; quick to dwntn,181896912,Jennifer,,Foster-Powell,45.49607,-122.6018,Entire home/apt,74,2,59,30/06/20,2.65,1,71,Portland
+85391,22088863,‰∏ÄÊ•ºÂ•óÊàøÔºàFirst floor suiteÔºâ,23640988,Mandy,Other Cities,Walnut,34.03683,-117.84971,Private room,45,1,0,,,2,0,Los Angeles
+173882,40270077,Lovely 3 Bdrm Home in the Heart of Sand Hill Cove!,223489475,Carly,Washington,Narragansett,41.37188,-71.49256,Entire home/apt,300,3,0,,,67,11,Rhode Island
+136456,19384034,Great space for 1 or 2 guests!,135877454,Zoilo,Queens,Astoria,40.76065,-73.90905,Entire home/apt,100,30,6,01/09/18,0.22,1,0,New York City
+30250,25236101,"Pup Friendly, Tropically Inspired, Back Yard!",28892525,Jennifer,,Irving Park,41.94376,-87.73529,Entire home/apt,103,2,11,13/10/19,0.4,2,174,Chicago
+193502,43291593,VILLA BERMUDA BEACH - New Luxury Oceanfront Home,344576481,Kyle,,Ocean Beach,32.73778,-117.25461,Entire home/apt,895,4,2,18/07/20,1.82,9,327,San Diego
+198615,30534155,Beautiful Fisherman's Warf  view Flat,39729330,Brad,,Russian Hill,37.80568,-122.42116,Entire home/apt,250,3,12,03/09/20,1.85,1,159,San Francisco
+53107,15235178,5 Star Kamaole Sands! Steps to Beach & Pool!,45604898,Laurie,Maui,Kihei-Makena,20.70913,-156.44408,Entire home/apt,169,4,13,01/11/19,0.29,3,269,Hawaii
+211269,38320739,"Spacious Open 1 Bedroom, Close to Amazon",94706699,Modern Luxe Condos,Downtown,Belltown,47.6139,-122.3426,Entire home/apt,122,2,3,31/01/20,0.46,3,167,Seattle
+41091,42753890,"One Bedroom Suite, Las Vegas Condo (A712)",309747570,William,,City of Las Vegas,36.16919,-115.13909,Entire home/apt,144,3,0,,,20,3,Clark County
+161509,44179648,Bed in studio apartment in NYC,185970481,Leah,Brooklyn,Crown Heights,40.66922,-73.94129,Shared room,100,3,0,,,1,87,New York City
+111323,6134655,Home Sweet Home,10730321,Dreama,,Marlyville - Fontainbleau,29.95367,-90.12167,Entire home/apt,366,30,14,26/02/20,0.24,1,179,New Orleans
+36607,24102634,Stunning Las Vegas Vacation Home,67828953,Traveling Panda,,City of North Las Vegas,36.26354,-115.11992,Entire home/apt,186,2,92,16/08/20,3.17,2,233,Clark County
+16156,4484576,Blue Room - Heart of Wilton Manors. Heated Pool.,3685146,Raazee,,Wilton Manors,26.16101,-80.12848,Private room,47,1,521,24/03/20,7.62,3,116,Broward County
+142981,25998807,"Great Private Room in Midtown, great Location!",193364875,Silva,Manhattan,Hell's Kitchen,40.76311,-73.98704,Private room,99,2,112,16/03/20,4.38,2,6,New York City
+103004,44584088,4 bed upper unit at Alamitos Ave and Anaheim St,360796609,Brandon,Other Cities,Long Beach,33.78428,-118.17593,Entire home/apt,110,3,2,20/08/20,1.82,3,333,Los Angeles
+117395,67397,SoHa comfort-by NW Central Park!,332189,Elise,Manhattan,Harlem,40.80332,-73.95741,Private room,122,15,112,31/12/19,0.98,1,219,New York City
+19868,27393407,6th Floor Brand New Condo on the beach,206443081,Namanya,,Fort Lauderdale,26.12742,-80.10514,Entire home/apt,175,3,65,16/03/20,3.05,1,257,Broward County
+169364,33045686,Avoid front desks in this modern 2BD in Portland,8534462,Barsala,,Kenton,45.59115,-122.68423,Entire home/apt,250,30,1,02/11/19,0.12,162,0,Portland
+24187,40608718,Tropical Private House with Pool,136978618,Angelica,,Fort Lauderdale,26.19514,-80.11689,Entire home/apt,135,1,9,17/05/20,1.89,1,124,Broward County
+206958,10054747,Welcome to The Library - A Modern Studio Apartment,51601030,Susan,Magnolia,Southeast Magnolia,47.64775,-122.39359,Entire home/apt,95,2,140,29/02/20,3.17,1,133,Seattle
+143400,26566099,Bedstuy Cove,199740814,Luqman,Brooklyn,Bedford-Stuyvesant,40.68125,-73.92326,Private room,245,50,7,23/08/18,0.27,1,0,New York City
+90131,29516978,Arts District Pad w/ Parking,192382685,Angel,City of Los Angeles,North Hollywood,34.17249,-118.3796,Entire home/apt,96,30,2,24/11/18,0.09,1,0,Los Angeles
+107726,31742742,"Stroll Five Points from a Cottage with a Chic, Artistic Feel",238083807,Patrick And Toni,,District 6,36.17716,-86.74684,Entire home/apt,141,2,37,07/03/20,2.09,1,27,Nashville
+151766,36270530,Heart of Harlem Studio,272787571,Rj,Manhattan,Harlem,40.81374,-73.9439,Entire home/apt,125,5,8,02/01/20,0.6,2,365,New York City
+81417,16245464,StayCation - Your Private Home Away from Home,106210386,Gloria,Other Cities,Agoura Hills,34.1518,-118.78391,Entire home/apt,314,5,40,27/08/20,0.96,1,302,Los Angeles
+175489,8974435,Executive Silicon Valley Guest House & Garden,1149958,Peggy,,Campbell,37.29925,-121.94312,Entire home/apt,175,30,76,19/03/20,1.38,3,237,San Clara Country
+133768,16332242,"Spacious, cozy, quiet 1.5 bedroom",85692123,Audrey,Queens,Ridgewood,40.70501,-73.91065,Entire home/apt,99,4,1,02/01/17,0.02,1,0,New York City
+191410,37498753,Two Bedroom Craftsman in the Heart of Hillcrest,161624373,Ted,,Midtown,32.74899,-117.15633,Entire home/apt,300,2,27,18/07/20,2.31,7,55,San Diego
+144193,27583185,Charming Private Room in Historic Strivers Row,32993072,Rita,Manhattan,Harlem,40.81938,-73.94548,Private room,65,3,7,16/12/18,0.3,1,27,New York City
+179905,37206052,Executive Large Studio-1Bath near Silicon Valley,3793149,Phu,,San Jose,37.30486,-121.82461,Entire home/apt,140,2,0,,,19,121,San Clara Country
+174887,2405200,"Amazing Views, Gated, Large Tuscan",12293177,Robin,,Milpitas,37.45997,-121.87999,Private room,60,30,22,03/03/19,0.31,2,365,San Clara Country
+212675,10436388,Home Away From Home,53758475,Megan,,Hennepin,45.0107,-93.23176,Entire home/apt,65,1,238,17/05/20,4.42,1,160,Twin Cities MSA
+89778,28966805,Gorgeous Mediterranean w/Spa bath and Ocean views,76408,Wendy,Unincorporated Areas,Unincorporated Santa Monica Mountains,34.04688,-118.77156,Entire home/apt,475,4,2,07/08/20,0.23,5,363,Los Angeles
+128106,10049766,1 Bedroom in a 3 bedrooms loft,35083661,Julien,Brooklyn,Williamsburg,40.71741,-73.95978,Private room,65,1,0,,,1,0,New York City
+211803,41775294,Blue Jay House- Spacious Ballard Suite!,229095817,Loftium,Ballard,West Woodland,47.66898,-122.36457,Entire home/apt,65,30,9,10/06/20,2.48,110,56,Seattle
+191060,36443940,Nice Trailer for Rent,274002759,Orlando,,Southwest,32.5977,-117.04784,Entire home/apt,40,1,1,31/03/20,0.25,1,310,San Diego
+120246,2298373,Luxury private apartment/Suite/with balcony,10149317,Lana,Queens,Rego Park,40.73068,-73.85823,Entire home/apt,120,7,45,21/08/20,0.79,6,251,New York City
+152873,37568587,Seeking student 6month to 1 year stay,283822930,Anais,Queens,Astoria,40.77348,-73.93034,Private room,1300,43,0,,,1,363,New York City
+198705,31290178,Large Comfortable Bedroom - Queen Bed,28502179,Tammy,,Bayview,37.73016,-122.39746,Private room,50,30,5,13/04/20,0.28,2,337,San Francisco
+158399,42096276,Townhouse Triplex PH with Private Roof Terrace,192380618,Sara,Manhattan,Upper West Side,40.77884,-73.97732,Entire home/apt,840,7,5,20/08/20,0.75,1,356,New York City
+20758,30587281,Pompono Beach/Ft Lauderdale Condo Spectacular View,229441764,Brian/Kim,,Pompano Beach,26.25223,-80.08506,Entire home/apt,10,60,1,11/04/20,0.43,1,364,Broward County
+63538,33315104,Spacious Wailea Sunset Ocean View Studio,111803559,Allan & Anne Marie,Maui,Kihei-Makena,20.69141,-156.43503,Private room,190,4,10,18/03/20,0.61,3,147,Hawaii
+94969,36748243,Bright West Hollywood 1BR w/ Pool + W/D + BBQ near Sunset by Blueground,107434423,Blueground,City of Los Angeles,Hollywood,34.0947,-118.35333,Entire home/apt,149,30,0,,,206,213,Los Angeles
+51981,12425811,Ocean-view Maui Condo near Beach,48290051,Sam,Maui,Kihei-Makena,20.70888,-156.44333,Entire home/apt,219,2,98,28/02/20,1.89,1,282,Hawaii
+86074,23058875,LA Cozy Cottage w/Pool,5356270,Maytal,City of Los Angeles,Van Nuys,34.17506,-118.46019,Private room,79,2,41,06/01/20,1.45,1,221,Los Angeles
+34568,8608151,Desert Club Resort by Holiday Inn Club,23531509,Larissa,,Unincorporated Areas,36.11742,-115.16207,Entire home/apt,175,3,2,11/01/19,0.04,12,1,Clark County
+199601,36893728,Furnished twin room near Bart station,1682188,Nika & Sergii,,Outer Mission,37.72193,-122.44083,Shared room,38,30,0,,,18,365,San Francisco
+194441,555596,Charming Noe Valley Garden Oasis,1772044,Judy,,Noe Valley,37.74416,-122.43598,Entire home/apt,119,4,130,31/08/20,1.32,2,161,San Francisco
+179989,37678560,"Comfy and quiet room in SJ, close to SJC Airport",153452785,Armando,,San Jose,37.40025,-121.92996,Private room,60,1,19,16/11/19,1.87,1,74,San Clara Country
+59274,25595123,Kamaaina Welcome! Local Rates Posted. Kulalani 1804; Mauna Lani Resort. Secluded Villa with Class,192896824,Mauka Makai Properties,Hawaii,South Kohala,19.94805,-155.85232,Entire home/apt,167,3,16,06/03/20,0.58,7,337,Hawaii
+210199,31462782,Newly Listed! Modern Queen Anne Basement Studio,235362223,Lora,Queen Anne,North Queen Anne,47.64077,-122.35919,Entire home/apt,105,2,43,30/05/20,3.06,1,148,Seattle
+143064,26096404,2BR/2 Bath Balcony  Kips Bay walk to hospitals,5241297,Bobbi,Manhattan,Midtown,40.75271,-73.97136,Entire home/apt,234,3,96,01/08/20,3.57,1,327,New York City
+130444,13098452,"3-6month SUBLET Sparkling, spacious, Manhattan 3BR",4942450,Sacha,Manhattan,Washington Heights,40.85073,-73.93851,Entire home/apt,92,68,17,10/11/18,0.34,1,0,New York City
+121999,4357134,Beautiful NY Gem,7809661,Mamie,Queens,Ditmars Steinway,40.77172,-73.91769,Entire home/apt,200,1,0,,,1,0,New York City
+151039,35510338,"Aliz Hotel Times Square, Standard Guest Room",260987211,Aliz Hotel Times Square,Manhattan,Hell's Kitchen,40.75705,-73.99078,Private room,109,1,57,31/08/20,6.06,5,0,New York City
+191320,37206217,Country Village - The Bed & Breakfast Inn at La Jolla,279743054,Ed,,La Jolla,32.84301,-117.27824,Private room,155,1,0,,,15,145,San Diego
+107266,27929014,Rodeo - Great Reviews. 5 mins Downtown. Atmosphere,179452506,Carrie,,District 17,36.1264,-86.77857,Entire home/apt,96,2,65,10/03/20,2.73,4,4,Nashville
+172958,32419356,"Wyndham Newport, 2 King Beds",236159859,Atlantic Beach Hospitality,Newport,Middletown,41.49793,-71.28552,Private room,500,1,1,24/03/19,0.06,16,166,Rhode Island
+3578,5667556,Treehouse Apartment,29382347,Lucia,,78741,30.23294,-97.7361,Entire home/apt,250,1,0,,,1,0,Austin
+218192,41047007,"‚≠ê ""Country in the City"" Cottage Retreat",28941343,Greg,,Anoka,45.1273,-93.14043,Entire home/apt,189,21,6,06/07/20,0.96,1,318,Twin Cities MSA
+48699,1148346,Top Floor Ocean View Apartment with Balcony,6295399,Megan,Maui,Kihei-Makena,20.77086,-156.45921,Entire home/apt,239,4,61,12/02/20,0.7,1,256,Hawaii
+34243,2457970,Close to The Vegas Strip!,12568111,Antoinette,,Unincorporated Areas,36.11294,-115.12799,Entire home/apt,308,1,2,11/01/15,0.03,36,365,Clark County
+113488,23740961,COZY 2BD/ 1BA EASY WALK TO FRENCH QTR A MUST SEE!!,176981539,Allen,,Seventh Ward,29.96938,-90.06537,Entire home/apt,192,30,57,27/11/19,1.89,1,90,New Orleans
+124657,7024079,Best Location near Columbia U,36818817,Mifan,Manhattan,Morningside Heights,40.80395,-73.96531,Private room,50,3,3,17/08/15,0.05,2,0,New York City
+183206,7367162,Ultimate Beach Retreat!,35661361,Aaron,,Pacific Beach,32.80744,-117.25915,Entire home/apt,89,3,0,,,1,92,San Diego
+3171,4775925,Luxury Exec Home in North Austin,6263811,Sam,,78717,30.49566,-97.78848,Entire home/apt,105,183,17,17/03/18,0.27,1,365,Austin
+3333,5295797,"West Austin Studio, great for SXSW or ACL.",1782327,Theresa,,78703,30.28207,-97.76829,Entire home/apt,175,2,1,08/10/18,0.04,2,178,Austin
+30977,30350238,Logan Square/Bucktown -  Close to Everything,227806313,Luisa,,Logan Square,41.92409,-87.6883,Entire home/apt,105,3,28,06/09/20,1.37,1,178,Chicago
+204115,1072272,Victorian Beach House Santa Cruz,5177794,Diana,,City of Santa Cruz,36.97063,-122.02778,Entire home/apt,275,2,61,18/06/20,0.72,1,144,Santa Cruz County
+62059,31040956,Fairway Villas I34 at the Waikoloa Beach Resort,156331964,Grand Welcome,Hawaii,South Kohala,19.9177,-155.88012,Entire home/apt,200,1,3,25/01/20,0.18,103,323,Hawaii
+187715,23904535,15 foot wide Windows to Waves Oceanfront property!,27446565,Brett,,Mission Bay,32.77608,-117.25248,Entire home/apt,310,4,13,20/06/20,0.49,1,236,San Diego
+172456,26688441,"Private Beach Cottage, 1 Block From The Beach",200644238,Lauren,Newport,Middletown,41.49139,-71.28241,Entire home/apt,250,2,30,25/05/20,1.27,1,305,Rhode Island
+169463,34123277,Suite at The Society Hotel,1032014,The Society Hotel,,Old Town/Chinatown,45.5255,-122.6734,Hotel room,129,1,55,04/04/20,4.0,3,349,Portland
+74332,1850001,great hotel alternative,9662298,Joel,City of Los Angeles,Beverly Grove,34.06628,-118.36913,Entire home/apt,233,31,15,20/01/19,0.18,1,179,Los Angeles
+37960,31263406,Polo Towers suites/villas- 2 bdrm CES,30787515,Brooke,,Unincorporated Areas,36.10728,-115.17131,Entire home/apt,265,2,1,09/01/20,0.13,119,89,Clark County
+207248,12765086,Soooooo good!,13464919,Matt,Other neighborhoods,Ravenna,47.67802,-122.29721,Private room,53,30,1,05/05/16,0.02,1,0,Seattle
+217524,36007981,Thomas Avenue Convenience & Charm!  Bedroom 1,258587465,Gina,,Ramsey,44.9584,-93.15755,Private room,50,1,5,27/05/20,0.53,4,196,Twin Cities MSA
+154126,38844519,Luxury Gem Central Times Square,221400034,Casey & Bold,Manhattan,Hell's Kitchen,40.75854,-73.99504,Entire home/apt,389,2,24,17/03/20,2.06,1,337,New York City
+109855,42643483,Gorgeous 1 BR Blocks From Broadway - Pool Open,214999017,Bob,,District 19,36.15447,-86.77516,Entire home/apt,137,2,10,03/07/20,3.03,1,162,Nashville
+53860,16758615,Princeville Happiness~Family Friendly Pool/Jacuzzi,51745068,Sydney,Kauai,North Shore Kauai,22.22132,-159.4776,Entire home/apt,200,1,74,19/03/20,1.74,2,218,Hawaii
+24558,41155599,‚òÖLake View B‚òÖ King Bed|Parking|Yard|BBQ|Smart TV,298454085,Katie,,Hallandale Beach,25.98088,-80.16154,Entire home/apt,115,1,6,21/03/20,1.21,3,119,Broward County
+50172,6728906,PARADISE FOUND!AT PLANTATION BEACH FRONT RESORT,7181637,Miguel And Judy,Kauai,Koloa-Poipu,21.87715,-159.45981,Entire home/apt,198,3,110,17/03/20,1.8,1,255,Hawaii
+166349,379104,Private top floor near downtown and airport,491587,Jeanne,,Concordia,45.56549,-122.63925,Private room,69,1,26,08/03/20,0.26,2,365,Portland
+211809,41806516,"Private room in home N Seattle spacious, quiet",7435040,Chengying,Northgate,Haller Lake,47.72464,-122.33382,Private room,40,1,2,29/02/20,0.43,12,363,Seattle
+143486,26715133,Beautiful Apartment In Nolita for 4 Guests,10457196,Richard,Manhattan,Chinatown,40.71765,-73.99457,Entire home/apt,185,30,5,01/12/19,0.2,5,0,New York City
+156812,40817592,Full Apt in Heart of WestVillage/ by Friends‚Äô apt!,2269285,Michka,Manhattan,West Village,40.72957,-74.0069,Entire home/apt,185,3,1,01/01/20,0.12,1,0,New York City
+81962,17285168,Pool and view house,116591644,Kelly,Unincorporated Areas,Topanga,34.14202,-118.60152,Private room,113,3,4,11/10/17,0.1,1,365,Los Angeles
+205998,2586350,Seattle Apartment Close to Light Rail,2536735,Akiko,Rainier Valley,Brighton,47.53964,-122.27687,Entire home/apt,85,2,165,20/01/20,2.25,2,352,Seattle
+69605,43638956,"Westin Ka‚Äôanapali Oceanfront, Studio Premium Villa",167739125,Eric,Maui,Lahaina,20.93848,-156.69196,Private room,350,5,0,,,1,0,Hawaii
+53391,15818459,Wailea Sunset Estate,101426056,Private Paradise Villas,Maui,Kihei-Makena,20.67412,-156.4427,Entire home/apt,5386,1,1,22/08/18,0.04,36,203,Hawaii
+208977,22363310,2Bed2Bath Living CorpHsng XX,50550045,Mike,Downtown,Central Business District,47.61075,-122.3333,Entire home/apt,277,3,0,,,39,92,Seattle
+185985,18750055,New 2 bedroom central to San Diego & hospitals,766039,Pamela,,Bird Land,32.78175,-117.16041,Entire home/apt,265,4,5,08/07/18,0.15,8,54,San Diego
+93119,34040957,NEWLY REMODELED -NEWLY FURNISHED HOME - CENTRAL LA,231663007,Brian And Sara,City of Los Angeles,West Adams,34.03071,-118.36201,Entire home/apt,268,1,88,06/09/20,5.3,7,355,Los Angeles
+132562,14975651,"West Harlem, great location, new building!",4430266,Ashante,Manhattan,Harlem,40.82047,-73.94491,Entire home/apt,200,2,15,08/03/20,1.07,1,67,New York City
+133532,16172073,Sunny renovated 1 BR in Brooklyn by Prospect Park,105572605,Peter,Brooklyn,Flatbush,40.64745,-73.96207,Entire home/apt,80,7,39,31/08/20,2.05,1,0,New York City
+41451,43461033,Las Vegas Strip Ultimate 1 Bedroom King Suite,295560390,DeAndre,,Unincorporated Areas,36.11076,-115.1762,Entire home/apt,115,2,3,10/08/20,1.8,3,84,Clark County
+94702,36349903,Deluxe King Room with Ocean View,271081037,Hotel Shangri-La,Other Cities,Santa Monica,34.01299,-118.49412,Hotel room,411,1,1,06/12/19,0.11,4,234,Los Angeles
+205198,28966253,Aptos Sea Haven - Beaches are OPEN,76417069,Teresa And Jules,,Unincorporated Areas,36.96792,-121.9012,Entire home/apt,225,2,59,23/06/20,2.83,1,316,Santa Cruz County
+74635,2539969,Hollywood Hills Cottage Garden Oasis Beachwood,10367362,Stefanie,City of Los Angeles,Hollywood Hills,34.11993,-118.32236,Entire home/apt,230,30,22,27/04/20,0.3,1,284,Los Angeles
+45527,22517116,Spacious Private Suite in Historic Sunnyside!,14063519,Patty & Ed,,Sunnyside,39.77765,-105.017,Entire home/apt,52,2,37,15/03/20,2.08,1,81,Denver
+29654,21090640,Warm Nostalgic Escape,126977695,Alex,,Garfield Ridge,41.80904,-87.73974,Entire home/apt,200,10,0,,,1,90,Chicago
+39535,38929734,*Luxurious LeHr Property 12minutes from The STRIP!,142103967,Richard,,City of Henderson,36.05257,-115.06493,Entire home/apt,411,2,51,30/08/20,5.05,1,290,Clark County
+146415,30283940,Charming Studio in Manhattan - Great location!,128721938,Livia,Manhattan,Kips Bay,40.7425,-73.97704,Entire home/apt,175,4,4,02/01/20,0.19,1,0,New York City
+8733,32701065,5-star Central East Austin Retreat,4010529,Rusty,,78702,30.26369,-97.71697,Entire home/apt,500,2,1,06/10/19,0.09,2,299,Austin
+14648,36179054,"Sunny, upper floor facing the State House!",26988,Anne,,Downtown,42.35739,-71.06155,Entire home/apt,102,32,2,16/08/20,0.65,6,146,Boston
+146352,30215130,Large Newly Renovated 1 Bedroom Apartment,27245607,Sidney,Manhattan,West Village,40.73331,-74.00502,Entire home/apt,165,1,2,11/03/19,0.1,1,0,New York City
+6572,21838336,PRIVATE MASTER BEDROOM WITH FULL BATH IN S AUSTIN,101117814,Joseph,,78744,30.16036,-97.78054,Private room,30,2,5,01/07/18,0.15,2,0,Austin
+53046,15054626,Beautiful Ocean View 2BR/2BA Condo at Maui Vista,1132251,Lee,Maui,Kihei-Makena,20.72605,-156.44583,Entire home/apt,190,5,45,20/03/20,1.01,1,298,Hawaii
+79411,12932234,"Location, Location, Location",22280975,Anthony,Other Cities,West Hollywood,34.09318,-118.35329,Private room,200,1,0,,,1,0,Los Angeles
+38844,35682633,"Las Vegas Strip Jockey Club Jan. 7-10 CES, $285/nt",103433639,Tonja,,Unincorporated Areas,36.10902,-115.17443,Hotel room,285,3,0,,,5,364,Clark County
+137569,20412719,Quiet space in the West Village,20841092,Ryan,Manhattan,West Village,40.73826,-74.00031,Private room,139,3,13,06/08/18,0.35,3,180,New York City
+179255,33639265,Superior Private Room Next to Stanford,15738488,Ryle & Parents,,Palo Alto,37.40933,-122.13697,Private room,99,1,17,11/03/20,1.21,3,180,San Clara Country
+22225,35125835,"Waterfront Sunset House: Pool, 3-bed/2-bath, dock",240541667,Lincoln,,Fort Lauderdale,26.15449,-80.12129,Entire home/apt,225,3,2,23/01/20,0.19,2,139,Broward County
+175650,10225316,Conveniently Located Single-Room Retreat,52543714,Liliana,,Sunnyvale,37.36692,-122.03992,Private room,53,2,10,03/05/19,0.3,2,179,San Clara Country
+144872,28438004,Large Harlem 3 bed 2 bath,214683117,Glenis,Manhattan,Harlem,40.81249,-73.94957,Entire home/apt,332,2,2,01/01/19,0.08,1,0,New York City
+125904,8223230,Bright and Cozy Room Williamsburg,43361668,Lia,Brooklyn,Greenpoint,40.71923,-73.95204,Private room,80,1,35,05/10/19,0.58,1,342,New York City
+3389,5415038,Red River Cultural District Loft,15433124,Charley,,78701,30.26867,-97.73511,Entire home/apt,500,2,3,09/11/15,0.05,1,0,Austin
+126136,8474806,"Huge 1 BR Apt close to A,B,C,D &1 trains",44630169,Stephen,Manhattan,Harlem,40.82725,-73.9453,Entire home/apt,68,2,9,12/06/17,0.2,1,0,New York City
+11713,44559940,North Austin Hip House,62390930,Jennifer,,78758,30.39759,-97.70072,Entire home/apt,137,2,2,07/09/20,2.0,14,61,Austin
+224865,40796728,"Lovely Apt, Heart of Capitol Hill + Eastern Market",7279350,Rashin,,"Capitol Hill, Lincoln Park",38.8788,-76.99155,Entire home/apt,79,1,2,20/01/20,0.24,1,0,Washington D.C.
+197863,24471037,Red Victorian - Bunk #1 in shared Poster Room,117141107,Zarinah,,Haight Ashbury,37.76942,-122.44991,Shared room,40,1,43,16/02/20,1.53,43,0,San Francisco
+141352,23647298,Cozy Upper East Side Studio Apartment,142765455,Genna,Manhattan,Upper East Side,40.78268,-73.94977,Entire home/apt,110,3,2,12/08/18,0.07,1,0,New York City
+91538,31596854,private room  in a great area in  los angeles,35426339,Farzin,City of Los Angeles,Palms,34.02477,-118.40016,Private room,45,31,3,02/08/20,0.24,4,334,Los Angeles
+33238,42348297,Bridgeport 1F Renovated Open Live/Work Apt MONTHLY,100782278,Emily & Rich,,Bridgeport,41.8359,-87.65239,Entire home/apt,76,41,3,14/07/20,0.43,28,338,Chicago
+92258,32781187,Sanitized Safe Private Villa! Large gated property,3907271,Bre,City of Los Angeles,Hollywood Hills,34.10589,-118.34067,Private room,313,3,1,31/03/19,0.06,9,360,Los Angeles
+109213,39925621,"Downtown, Walking Distance to Everything!",4192674,Kate,,District 19,36.15553,-86.77443,Entire home/apt,118,2,31,21/08/20,4.49,1,5,Nashville
+171805,19844683,Stella Maris Inn,39589995,Dorothy,Newport,Newport,41.49597,-71.32053,Hotel room,245,1,17,13/10/19,0.48,8,302,Rhode Island
+58676,24479405,"Ground Floor Luxe! Kitchen, WiFi, Lanai, Flat Screen, AC+Laundry‚ÄìHali`i Kai Waikoloa 24C",121746309,Halii Kai At Waikoloa,Hawaii,South Kohala,19.9274,-155.88272,Entire home/apt,203,3,2,08/03/19,0.07,37,333,Hawaii
+101919,43818670,LARGE 2 LEVLES 4bedrooms 3bath sleep 12 w/2parking,120016074,Alex,City of Los Angeles,Lincoln Heights,34.07027,-118.22262,Entire home/apt,195,2,4,19/08/20,2.79,38,344,Los Angeles
+101977,43857573,Home away from home in quiet neighborhood,40054397,Mercedes,Other Cities,Pasadena,34.12624,-118.13253,Entire home/apt,500,30,0,,,1,102,Los Angeles
+87204,24649315,Bright and quiet room in apartment complex,186280286,Cindy,Other Cities,Downey,33.93132,-118.16109,Private room,80,1,0,,,1,89,Los Angeles
+137212,20044802,AG's Palace 3,121612198,Maura,Brooklyn,Canarsie,40.64138,-73.91488,Private room,98,1,14,14/10/19,0.38,4,365,New York City
+34422,6117299,#2 Cozy Clean Rooms,31730116,Chengcheng,,City of Las Vegas,36.13951,-115.18192,Private room,20,31,168,29/02/20,2.58,20,334,Clark County
+98559,40785801,Near Downtown / Hollywood! CDC Cleaning Standards!,309128928,James Nicole,City of Los Angeles,Westlake,34.07163,-118.27901,Entire home/apt,73,2,21,27/08/20,2.47,2,310,Los Angeles
+68346,41851137,Westin Kaanapali Ocean Resort STUDIO VILLA Timesha,1512464,Julie,Maui,Lahaina,20.93893,-156.69007,Private room,482,1,0,,,15,352,Hawaii
+151536,36028183,"The Condor Hotel, Plush Room King Bed",261016212,The Condor Hotel,Brooklyn,Bedford-Stuyvesant,40.69673,-73.95867,Private room,162,1,1,10/11/19,0.1,5,54,New York City
+190737,35512066,"House on Golden Hill, 5min to Downtown Gaslamp",255250728,Chedly,,Balboa Park,32.7157,-117.13307,Entire home/apt,115,2,8,08/10/19,0.6,4,0,San Diego
+175190,6349421,The Orchard Tiny Home-Experience Tiny Home Living!,33077706,Sean,,Santa Clara,37.34215,-121.95873,Entire home/apt,99,2,146,09/03/20,3.84,3,359,San Clara Country
+155859,40201026,Zen Artist Studio Home!,52087142,Yael,Manhattan,Harlem,40.81314,-73.94415,Entire home/apt,95,7,1,30/11/19,0.11,2,287,New York City
+159413,42805754,Modern and luxurious 1 BR with private Balcony,91806581,Hila,Manhattan,Murray Hill,40.74398,-73.97284,Entire home/apt,165,30,2,02/08/20,0.74,17,365,New York City
+50277,7116389,Three Bed Room Steps from Waikiki Beach!,24948563,Andy,Honolulu,Primary Urban Center,21.27398,-157.82175,Private room,209,4,5,25/02/17,0.1,2,356,Hawaii
+217238,33341764,C41U- 3rd floor- 2 bedroom Uptown Jan-Mar 33% off,251126654,Cheri,,Hennepin,44.95616,-93.29473,Entire home/apt,139,2,0,,,15,295,Twin Cities MSA
+89550,28626578,Promenade Suite,81687783,Jason,Other Cities,Pomona,34.05683,-117.74926,Entire home/apt,200,7,2,07/08/20,0.27,9,180,Los Angeles
+51683,11879869,Waikiki Apt. perfect for couples/friends w/parking,37740186,Jackie,Honolulu,Primary Urban Center,21.2811,-157.82445,Entire home/apt,145,4,67,18/03/20,2.19,1,322,Hawaii
+194543,792370,Garden Apartment Next to Duboce Park,278835,Lesa,,Castro/Upper Market,37.76883,-122.43491,Entire home/apt,100,30,33,01/03/16,0.36,1,264,San Francisco
+107940,32769354,Cozy Room in Historic Neighborhood close to City,212031275,Dana,,District 6,36.17026,-86.76211,Private room,98,2,42,15/03/20,2.42,1,82,Nashville
+34452,6448817,Laguna Palms furnished 3 bedrooms!,33392186,Helen,,Unincorporated Areas,36.11322,-115.10632,Entire home/apt,74,30,14,10/08/19,0.23,10,149,Clark County
+123160,5424359,"Nice Sun Filled Room, Spacious Apt, Williamsburg",23893892,Taryn,Brooklyn,Williamsburg,40.7104,-73.95549,Private room,65,4,18,20/08/19,0.3,1,89,New York City
+12744,4583526,Lovely private 4 bedroom apt,23759488,Tricia,,Jamaica Plain,42.30455,-71.11553,Entire home/apt,211,2,192,08/03/20,2.82,1,247,Boston
+60410,28387985,English Cottage in Hawaii,5815616,Lulie,Hawaii,North Kona,19.62038,-155.9464,Private room,74,1,35,10/02/20,1.44,1,179,Hawaii
+214502,21957047,Great home for the Super Bowl,159953485,Kari,,Ramsey,45.05549,-93.08716,Entire home/apt,879,4,0,,,1,0,Twin Cities MSA
+217257,33466583,Bright 2BR townhouse close to White Bear Lake,3054407,Craig,,Washington,45.0395,-92.98251,Entire home/apt,300,2,2,26/05/19,0.13,1,0,Twin Cities MSA
+207970,17361814,Cozy Townhouse with Niche Amenities and Privacy,2781334,Greg,Lake City,Meadowbrook,47.71273,-122.29759,Private room,52,2,81,10/12/19,2.02,1,31,Seattle
+43541,39841127,"‚óôDIANA Room‚óô North OSU, Near DOWNTOWN COLUMBUS",217660325,Jin,,Near North/University,40.01283,-83.00123,Private room,32,2,1,08/03/20,0.21,44,68,Columbus
+71983,32920883,EDWNDSLBRB,224537266,Odwin,,Ward A (councilmember Denise Ridley),40.6917,-74.08911,Private room,58,1,0,,,2,364,Jersey City
+20612,30070869,Studio apartment 1 mile from Las Olas Beach!,225975000,OpenView,,Fort Lauderdale,26.12757,-80.13556,Entire home/apt,85,2,70,12/06/20,3.76,1,139,Broward County
+208535,20553160,"Modern Townhouse, Private Location, Near Downtown.",6656912,Allon,Central Area,Leschi,47.59398,-122.29535,Entire home/apt,164,3,20,02/09/19,0.58,1,0,Seattle
+119748,1922863,Bi-level Loft with a Private Garden,915973,Donald P.,Brooklyn,Williamsburg,40.71715,-73.95527,Entire home/apt,220,3,71,01/03/20,0.92,1,250,New York City
+193935,44014876,Spacious room located in central San Diego,155936729,Vivian,,Moreno Mission,32.76391,-117.18768,Private room,90,2,1,05/07/20,1.0,1,54,San Diego
+210547,33873624,Greenwood 2 BR w/yard - Walk to shops/restaurants,72337924,Blake & Lauren,Other neighborhoods,Greenwood,47.69575,-122.34595,Entire home/apt,93,2,31,16/06/20,2.4,1,217,Seattle
+98378,40596229,Cozy private room/bath in Los Angeles-Mar Vista!,22386213,Christophe & Laura,City of Los Angeles,Mar Vista,34.0048,-118.4249,Private room,80,3,7,11/03/20,0.77,1,0,Los Angeles
+213278,16295855,Lovely Home in St Louis Park MN,70136908,Thibault,,Hennepin,44.92503,-93.34132,Entire home/apt,140,4,4,24/02/19,0.11,1,0,Twin Cities MSA
+117693,248717,Brownstone comfort + beautiful yard,1269526,Amy,Brooklyn,Park Slope,40.6736,-73.98113,Private room,65,26,14,08/03/20,0.13,3,365,New York City
+139446,21924203,Private room in Brownstone house,22378099,Ricardo,Brooklyn,Fort Greene,40.6857,-73.96964,Private room,50,5,0,,,1,0,New York City
+43806,42644068,Cozy private room & bath: close to downtown!,185084886,Tamas,,Near East,39.96001,-82.97001,Private room,45,1,1,24/07/20,1.0,2,71,Columbus
